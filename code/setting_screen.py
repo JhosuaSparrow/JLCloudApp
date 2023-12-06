@@ -87,7 +87,7 @@ class SettingScreen(BaseScreen):
         self.setting_modules.append(self.setting_item_create(setting_module, 250, "electric_net_setting.png", "电网标准设置", "detail_right_32.png"))
         self.setting_modules.append(self.setting_item_create(setting_module, 300, "smart_port.png", "智能端口", "detail_right_32.png"))
         self.setting_modules.append(self.setting_item_create(setting_module, 350, "advanced_setting_32.png", "高级设置", "detail_right_32.png"))
-        self.setting_modules.append(self.setting_item_create(setting_module, 400, "soli_hub_control.png", "Solis Hub Control 设置", "detail_right_32.png"))
+        self.setting_modules.append(self.setting_item_create(setting_module, 400, "soli_hub_control.png", "SolisHubControl设置", "detail_right_32.png"))
         self.setting_modules.append(self.setting_item_create(setting_module, 455, "quick_setup.png", "快速设置", "detail_right_32.png"))
         self.setting_modules.append(self.setting_item_create(setting_module, 505, "device_upgrade.png", "设备升级", "detail_right_32.png"))
         self.setting_modules.append(self.setting_item_create(setting_module, 555, "config_temp.png", "配置模板", "detail_right_32.png"))

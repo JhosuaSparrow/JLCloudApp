@@ -58,7 +58,7 @@ class ConnectInfoScreen(BaseScreen):
         sn_text = lv.label(self.module1)
         sn_text.set_pos(20, 10)
         sn_text.set_size(420, 20)
-        sn_text.set_text("SN: %s" % modem.getDevSN())
+        sn_text.set_text("SN:%s" % modem.getDevSN())
         sn_text.set_long_mode(lv.label.LONG.WRAP)
         sn_text.set_style_text_align(lv.TEXT_ALIGN.LEFT, 0)
         sn_text.add_style(STYLE_SCREEN.style_siyuan_18_grey, lv.PART.MAIN | lv.STATE.DEFAULT)

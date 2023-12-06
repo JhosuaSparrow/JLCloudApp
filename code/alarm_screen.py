@@ -92,7 +92,7 @@ class AlarmScreen(BaseScreen):
         alarms_module.add_style(STYLE_SCREEN.style_bg_white_border, lv.PART.MAIN | lv.STATE.DEFAULT)
         self.alarms_module = alarms_module
 
-        self.alarm_item_create("直流反接", "1028", "紧急", "1.检查直流接线是否接反,2.重启逆变器,3.如果仍未排除,请联系厂家客服。", True)
+        self.alarm_item_create("直流反接", "1028", "紧急", "1.检查直流接线是否接反,2.重启逆变器,3.如果仍未排除,请联系厂家客服", True)
         self.alarm_item_create("电网过压", "1010", "提示", "XXX", False)
         self.alarm_item_create("电网过压01", "1010", "提示", "XXX", False)
         self.alarm_item_create("电网过压02", "1010", "提示", "XXX", False)
