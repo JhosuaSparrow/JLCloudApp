@@ -16,7 +16,7 @@
 # -*- coding: utf-8 -*-
 
 """
-@file      :_main.py
+@file      :main.py
 @author    :Jack Sun (jack.sun@quectel.com)
 @brief     :<description>
 @version   :1.0.0
