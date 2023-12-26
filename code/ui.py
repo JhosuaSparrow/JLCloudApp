@@ -76,7 +76,7 @@ class AppUI(object):
         lv.tick_inc(5)
         lv.task_handler()
         lv.img.cache_invalidate_src(None)
-        lv.img.cache_set_size(16)
+        lv.img.cache_set_size(24)
 
         log.debug("lvgl init complete")
 

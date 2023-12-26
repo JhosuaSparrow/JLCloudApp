@@ -88,7 +88,7 @@ class ST7701S:
         self.tp_gt911 = gt9xx(irq=40, reset=20)
         self.tp_gt911.activate()
         self.tp_gt911.init()
-        self.gpio40 = Pin(Pin.GPIO40, Pin.OUT, Pin.PULL_PU, 0)
+        # self.gpio40 = Pin(Pin.GPIO40, Pin.OUT, Pin.PULL_PU, 0)
 
     def onoff(self, val=1):
         return True if self.enable_gpio.write(val) == 0 else False
