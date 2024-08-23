@@ -1,4 +1,8 @@
-# 智慧电量 EC600U 大屏演示
+# 智慧电力大屏演示
+
+## 模组
+
+- QuecPython EC600U-CNLB
 
 ## 功能页面
 
@@ -44,10 +48,6 @@
 - `setting_screen.py` 设置功能页面
 - `ST7701S.py` LCD屏幕驱动
 - `ui.py` UI驱动功能
-
-## 功能演示视频
-
-视频文件地址: `docs/media/video_20231206_131920.mp4`
 
 ## 项目使用说明
 
