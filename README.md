@@ -1,6 +1,6 @@
 # Smart Power Large Screen Demonstration
 
-[中文](https://github.com/QuecPython/xxx/blob/master/README.md) | English
+[中文](https://github.com/JhosuaSparrow/JLCloudApp/blob/master/README.md) | English
 
 ## Module
 
