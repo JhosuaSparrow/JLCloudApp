@@ -1,4 +1,4 @@
-# Demo of Jinlang EC600U Large Screen Project
+# Smart Power EC600U Large Screen Demonstration
 
 ## Function page
 
@@ -12,7 +12,7 @@
 
 ## Project Structure
 
-```
+```shell
 |--code
     |--main.py
     |--alarm_screen.py
