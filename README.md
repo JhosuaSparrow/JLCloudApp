@@ -1,4 +1,8 @@
-# Smart Power EC600U Large Screen Demonstration
+# Smart Power Large Screen Demonstration
+
+## Module
+
+- QuecPython EC600U-CNLB
 
 ## Function page
 
@@ -44,10 +48,6 @@
 - `setting_screen.py` Setting Function Page
 - `ST7701S.py` LCD screen driver
 - `ui.py` UI driver function
-
-## Function demonstration video
-
-Video file address: `docs/media/video_20231206_131920.mp4`
 
 ## Project Usage Instructions
 
