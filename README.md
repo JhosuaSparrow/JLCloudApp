@@ -16,7 +16,7 @@
 
 ## 项目结构
 
-```
+```shell
 |--code
     |--main.py
     |--alarm_screen.py
