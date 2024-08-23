@@ -1,6 +1,6 @@
 # 智慧电力大屏演示
 
-中文 | [English](https://github.com/QuecPython/xxx/blob/EN/README.md)
+中文 | [English](https://github.com/JhosuaSparrow/JLCloudApp/blob/JLCloudApp_EN/README.md)
 
 ## 模组
 
