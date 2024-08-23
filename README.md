@@ -1,5 +1,7 @@
 # Smart Power Large Screen Demonstration
 
+[中文](https://github.com/QuecPython/xxx/blob/master/README.md) | English
+
 ## Module
 
 - QuecPython EC600U-CNLB
