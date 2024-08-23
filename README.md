@@ -1,5 +1,7 @@
 # 智慧电力大屏演示
 
+中文 | [English](https://github.com/QuecPython/xxx/blob/EN/README.md)
+
 ## 模组
 
 - QuecPython EC600U-CNLB
